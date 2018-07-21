@@ -1,0 +1,38 @@
+* {outline : dotted 1px;
+}
+
+
+body { color : green}
+
+
+div {outline-style: dotted;
+
+}
+
+
+h1 {
+    background-color: palegreen
+}
+
+div {
+    background: beige
+}
+
+#divP {color: coral;
+       position: relative;
+       left: 20%; 
+    }
+
+
+
+
+
+.a {
+    position : relative;
+    display: inline;
+    margin: 20px;
+
+}
+
+
+
